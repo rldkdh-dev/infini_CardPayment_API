@@ -1,1 +1,4 @@
-# infini_CardPayment_API
+
+# 주식회사 인피니소프트
+
+-제가 초기에 개발한 카드결제API입니다. PHP,JSP,HTML버전으로 나뉘어져있습니다.
